@@ -25,7 +25,7 @@ Este repositorio tiene como propósito fomentar el desarrollo de habilidades rel
 | Subir dataset de ejemplo | Jesus David Suarez Henao | ⬜ |
 | Revisar pull requests | Todo el equipo | ⬜ |
 
-(Legenda: ⬜ = pendiente, ✅ = completado)
+
 
 ---
 
