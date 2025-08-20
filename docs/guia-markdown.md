@@ -4,14 +4,14 @@ Markdown es un lenguaje de marcado ligero que permite dar formato a textos de ma
 ## 1. Títulos  
 Se utilizan `#` para crear títulos.  
 
-```markdown
+
 # Título nivel 1
 ## Título nivel 2
 ### Título nivel 3
 #### Título nivel 4
 
 ## 2. Listas  
-```markdown
+
 - Elemento A
 - Elemento B
   - Sub-elemento
