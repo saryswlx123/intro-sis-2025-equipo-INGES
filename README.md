@@ -3,33 +3,33 @@
 
 Repositorio creado para la materia de Introducción a los Sistemas, con el fin de aprender el uso de GitHub desde la interfaz web.
 
-## 👥 Equipo XX
-- Nombre Integrante 1 – [@usuario1](https://github.com/usuario1)
-- Nombre Integrante 2 – [@usuario2](https://github.com/usuario2)
-- Nombre Integrante 3 – [@usuario3](https://github.com/usuario3)
+## Equipo INGES
+- Jesus David Suarez Henao – @DavidS02304
+- Sarey Nalieth Salguero Landinez – @saryswlx123
 
-Profesor: **O. Pinzón**
+
+Profesor: **Omar Pinzón Ardila**
 
 ---
 
-## 🎯 Objetivo
-Este repositorio tiene como objetivo desarrollar habilidades en la **creación, organización y colaboración** dentro de un proyecto en GitHub, utilizando únicamente la interfaz web.  
+## Objetivo
+Este repositorio tiene como propósito fomentar el desarrollo de habilidades relacionadas con la creación, organización y trabajo colaborativo en un proyecto dentro de GitHub, empleando exclusivamente su interfaz web.
 
 ---
 
 ## ✅ Tabla de tareas
 | Tarea | Responsable | Estado |
 |-------|-------------|--------|
-| Crear estructura de carpetas | Integrante 1 | ✅ |
-| Documentar guía Markdown | Integrante 2 | ⬜ |
-| Subir dataset de ejemplo | Integrante 3 | ⬜ |
+| Crear estructura de carpetas | Jesus David Suarez Henao| ✅ |
+| Documentar guía Markdown | Sarey Nalieth Salguero Landinez | ⬜ |
+| Subir dataset de ejemplo | Jesus David Suarez Henao | ⬜ |
 | Revisar pull requests | Todo el equipo | ⬜ |
 
 (Legenda: ⬜ = pendiente, ✅ = completado)
 
 ---
 
-## 🔄 Flujo de trabajo propuesto
+##  Flujo de trabajo propuesto
 1. **Crear un Issue** describiendo la tarea.  
 2. **Crear una rama** con un nombre relacionado al Issue.  
 3. **Desarrollar la tarea** en la rama creada.  
@@ -39,7 +39,7 @@ Este repositorio tiene como objetivo desarrollar habilidades en la **creación, 
 
 ---
 
-## 🌿 Convención para ramas y commits
+##  Convención para ramas y commits
 - **Ramas**:  
   - `docs/nombre-documento`  
   - `feat/nueva-funcionalidad`  
@@ -52,6 +52,6 @@ Este repositorio tiene como objetivo desarrollar habilidades en la **creación, 
 
 ---
 
-## ⚖️ Licencia
+##  Licencia
 Este proyecto se distribuye bajo la licencia [MIT](LICENSE).
 
