@@ -22,4 +22,7 @@ Se utilizan `#` para crear títulos.
 
 ## 3. Enlaces
 Enlace en línea: [GitHub](https://github.com)
+## 4. Imagines
+## 5. Tablas
+## 6. Codigo
 
