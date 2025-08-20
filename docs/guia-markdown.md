@@ -6,8 +6,11 @@ Se utilizan `#` para crear títulos.
 
 
 "#" Título nivel 1
+
 "##" Título nivel 2
+
 "###" Título nivel 3
+
 "####" Título nivel 4
 
 ## 2. Listas  
