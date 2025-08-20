@@ -10,7 +10,8 @@ Se utilizan `#` para crear títulos.
 ### Título nivel 3
 #### Título nivel 4
 
-## 2. Listas
+## 2. Listas  
+
 - Elemento A
 - Elemento B
   - Sub-elemento
