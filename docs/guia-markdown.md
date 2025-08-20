@@ -5,7 +5,7 @@ Markdown es un lenguaje de marcado ligero que permite dar formato a textos de ma
 Se utilizan `#` para crear títulos.  
 
 
-"#" Título nivel 1 # Título nivel 1
+"#" Título nivel 1 
 
 "##" Título nivel 2
 
@@ -15,16 +15,24 @@ Se utilizan `#` para crear títulos.
 
 ## 2. Listas  
 
-- Elemento A
-- Elemento B
-  - Sub-elemento
+# Lista con viñetas
 
-1. Paso uno
-2. Paso dos
-3. Paso tres
+- Elemento 1
+- Elemento 2
+- Elemento 3
+  - Subelemento 1
+  - Subelemento 2
+
+# Lista ordenada
+
+1. Primer paso
+2. Segundo paso
+3. Tercer paso
+
+
 
 ## 3. Enlaces
-Enlace en línea: [GitHub](https://github.com)
+
 ## 4. Imagines
 ## 5. Tablas
 ## 6. Codigo
