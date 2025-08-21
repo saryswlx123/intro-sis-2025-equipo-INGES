@@ -6,7 +6,7 @@ Repositorio creado para la materia de Introducción a los Sistemas, con el fin d
 ## Equipo INGES
 - Jesus David Suarez Henao – @DavidS02304
 - Sarey Nalieth Salguero Landinez – @saryswlx123
-
+- Liz - @ Lizethbayona06
 
 Profesor: **Omar Pinzón Ardila**
 
