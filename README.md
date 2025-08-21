@@ -20,10 +20,13 @@ Este repositorio tiene como propósito fomentar el desarrollo de habilidades rel
 ## ✅ Tabla de tareas
 | Tarea | Responsable | Estado |
 |-------|-------------|--------|
-| Crear estructura de carpetas | Jesus David Suarez Henao| ✅ |
+| Crear estructura de carpetas | Sarey Nalieth Salguero Landinez| ✅ |
 | Documentar guía Markdown | Sarey Nalieth Salguero Landinez | ⬜ |
-| Subir dataset de ejemplo | Jesus David Suarez Henao | ⬜ |
-| Revisar pull requests | Todo el equipo | ⬜ |
+| Creaccion de issues y ramas | Jesus Davidad Suarez Henao | ⬜ |
+| Revisar pull requests | Jesus Davidad Suarez Henao | ⬜ |
+| Proteccion de la rama principal | Liz | ⬜ |
+| Subir csv. de ejemplo y crear un archivo fuente_datos.md  | Liz | ⬜ |
+
 
 
 
